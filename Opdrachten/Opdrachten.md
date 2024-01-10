@@ -12,9 +12,8 @@ Tijdens WPL1 heb ik aan verschillende opdrachten gewerkt:
 
 3. **Oriënterings test** - Hier hebben we oriënterings testen gemaakt die ons meer vertelde over ons werk- en studeervermogen.
 
-4. **OLR APP** - Hier moesten we een eigen APP maken die de olr's uitlegt en je ze kan zoeken met een zoekbalk doormiddel van tags. ![Alt text](image.png)
-
-
+4. **OLR APP** - Hier moesten we een eigen APP maken die de olr's uitlegt en je ze kan zoeken met een zoekbalk doormiddel van tags.
+ ![Alt text](image.png)
 
 5. **Opdracht actualiteit** - Hier moesten we in willekeurige groepen van vier samenwerken om een bestandje te maken waarin staat hoe wij ons voelen over AI en hoe we denken dat dit de toekomst gaat veranderen.
 
