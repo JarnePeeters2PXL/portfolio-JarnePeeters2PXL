@@ -21,7 +21,7 @@ Dankzij mijn analyse van vacatures, gastseminaries en opdrachten, begrijp ik dat
 
 **Technische skills:**
 - Netwerkconfiguratie: Ik heb mijn technische vaardigheden op het gebied van netwerkconfiguratie gebruikt om problemen met netwerkinfrastructuur op te lossen en om nieuwe netwerkoplossingen te implementeren bij het vak netwerken1.
-- Beveiliging: Mijn begrip van beveiligingsprincipes heeft me geholpen bij het identificeren en oplossen van beveiligingskwetsbaarheden binnen de IT-infrastructuur van onze organisatie.
+- Beveiliging: Mijn begrip van beveiligingsprincipes heeft me geholpen bij het identificeren en oplossen van beveiligingskwetsbaarheden binnen de IT-infrastructuur van verschillende oprdachten in cisco packettracer.
 
 **Soft skills:**
 - Communicatie: Ik heb mijn communicatievaardigheden toegepast door regelmatig te overleggen met klasgenoten om projectupdates en uitdagingen te bespreken.
