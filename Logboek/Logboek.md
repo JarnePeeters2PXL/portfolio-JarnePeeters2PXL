@@ -1,4 +1,7 @@
 # Logboek werkplekleren
+
+Het doel van WPL1 was oriëntering en kennismaken met het werkveld.
+Hiervoor hebben we opdrachten gedaan om het werkveld te verkenning, stilgestaan bij persoonlijke kwaliteiten en ontwikkeling, gastcolleges gevolgd en kleine technische opdrachten uitgevoerd.
 ![Alt text](<WhatsApp Image 2024-01-10 at 11.26.22.jpeg>)
 
 ## Logboek WPL 1
