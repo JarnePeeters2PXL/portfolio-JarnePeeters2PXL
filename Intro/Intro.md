@@ -21,17 +21,10 @@ Dank je wel voor je interesse in mijn werk.
 - **Middelbare School Diploma:** Mosa-RT, 2023
 - **Hoger Onderwijs Diploma (optioneel):** PXL Hasselt, Tot hede
 
-# Certificaten en Cursussen
-
-- Nog geen
-
 # Werkervaring
 
-- Nog geen
-
-# Vrijwilligerswerk
-
-- Nog geen
+- Albert Heijn, Maasmechelen: vakken vullen, klanten helpen. 16/04/22 - 23/07/22
+- Zena vuurwerk, Maasmechelen: vuurwerk halen uit de bunkers voor klanten. 18/12/22 - 31/12/22  en  18/12/23 - 31/12/23
 
 # Hobby's
 

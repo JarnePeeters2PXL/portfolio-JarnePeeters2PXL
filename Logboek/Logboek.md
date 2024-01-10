@@ -1,4 +1,5 @@
 # Logboek werkplekleren
+![Alt text](<WhatsApp Image 2024-01-10 at 11.26.22.jpeg>)
 
 ## Logboek WPL 1
 **Week 1**

@@ -7,9 +7,9 @@ Tijdens WPL1 heb ik verschillende reflecties gemaakt om mijn persoonlijke groei 
 
 1. **Talenten** - Ik heb mijn persoonlijke talenten gevonden wat me inzicht heeft gegeven in mijn sterke punten en ontwikkelpunten.
 
-2. **Gastseminaries** - Ik heb deelgenomen aan verschillende gastseminaries, waarbij ik veel geleerd heb van experts in het vakgebied.
+2. **Gastseminaries** - Ik heb deelgenomen aan verschillende gastseminaries, waarbij ik veel geleerd heb van experts in het vakgebied. Bijvoorbeeld bij de seminarie van Niels heb ik tips gekregen over hoe je kunt beginnen in de cybersecurity, de basis van etisch hacken en over welke certificaten een must zijn.
 
-3. **X-factor** - De X-factor-oefening heeft me geholpen mijn unieke eigenschappen en sterke punten te begrijpen en hoe ik deze in mijn toekomstige carrière kan benutten.
+3. **X-factor** - De X-factor-oefening heeft me geholpen mijn unieke eigenschappen en sterke punten te begrijpen en hoe ik deze in mijn toekomstige carrière kan benutten. ik heb een online cursus afgelegd over cybersecurity namelijk deze: ""https://www.udemy.com/course/learn-information-cybersecurity-essentials-docs-added/learn/lecture/40347780?start=30#content""
 
 **Trots Resultaat van WPL1**
 
